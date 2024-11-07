@@ -7,7 +7,7 @@ This project is a static website created using HTML, CSS, and JavaScript. It is 
 
 ### Sample ScreenShoot 
 ###### Web Animation Website Page <br>
-![](https://github.com/Ranjithv88/Web-Animation/blob/master/screenshot/Web-Animaton%20ScreenShot.png)
+![](https://raw.githubusercontent.com/Ranjithv88/Web-Animation/refs/heads/master/screenshot/Web-Animaton%20ScreenShot.png)
 
 # Run LocalHost
 
